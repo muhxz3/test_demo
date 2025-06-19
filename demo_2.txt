@@ -1,0 +1,2 @@
+Name = "Abdul Rahiman Muhaz"
+Age = 20
